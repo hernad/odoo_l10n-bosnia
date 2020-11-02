@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <data>
+        <!-- Bosnian banks -->
+        <record id="res_bank_bs_306" model="res.bank">
+            <field name="country" ref="base.ba"/>
+            <field name="state" ref="l10n_bs.state_ba_2"/>
+            <field name="prefix">306</field>
+            <field name="bic">HAAB BA 22</field>
+            <field name="name">ADDIKO BANK d.d. Sarajevo</field>
+            <field name="zip">71000</field>
+            <field name="city">Sarajevo</field>
+            <field name="street">Trg solidarnosti 12</field>
+        </record>
+
+        <record id="res_bank_bs_552" model="res.bank">
+            <field name="country" ref="base.ba"/>
+            <field name="state" ref="l10n_bs.state_ba_3"/>
+            <!-- https://www.addiko-rs.ba/o-nama/osnovni-podaci/o-banci/ -->
+            <field name="prefix">552</field>
+            <field name="bic">HAAB BA 2B</field>
+            <field name="name">Addiko Bank a.d.</field>
+            <field name="zip">78000</field>
+            <field name="city">Banja Luka</field>
+            <field name="street">Aleja Svetog Save 13</field>
+        </record>
+        <record id="res_bank_bs_338" model="res.bank">
+            <field name="country" ref="base.ba"/>
+            <field name="state" ref="l10n_bs.state_ba_2"/>
+            <field name="prefix">338</field>
+            <field name="bic">UNCR BA 22</field>
+            <field name="name">UniCredit Bank d.d.</field>
+            <field name="zip">88000</field>
+            <field name="city">Mostar</field>
+            <field name="street">Kardinala Stepinca b.b</field>
+        </record>
+
+        <record id="res_bank_bs_141" model="res.bank">
+            <field name="country" ref="base.ba"/>
+            <field name="state" ref="l10n_bs.state_ba_2"/>
+            <field name="prefix">141</field>
+            <field name="bic">BBIB BA 22</field>
+            <field name="name">Bosna Bank International (BBI) d.d. Sarajevo </field>
+            <field name="zip">71000</field>
+            <field name="city">Sarajevo</field>
+            <field name="street">Trg djece Sarajeva 1</field>
+        </record>
+
+
+        <record id="res_bank_bs_567" model="res.bank">
+            <field name="country" ref="base.ba"/>
+            <field name="state" ref="l10n_bs.state_ba_3"/>
+            <field name="prefix">567</field>
+            <field name="bic">SABR BA 2B</field>
+            <field name="name">Sberbank a.d. Banja Luka</field>
+            <field name="zip">78101</field>
+            <field name="city">Banja Luka</field>
+            <field name="street">Prvog krajiškog korpusa 118</field>
+        </record>
+
+        <record id="res_bank_bs_140" model="res.bank">
+            <field name="country" ref="base.ba"/>
+            <field name="state" ref="l10n_bs.state_ba_2"/>
+            <field name="prefix">140</field>
+            <field name="bic">SABR BA 22</field>
+            <field name="name">Sberbank BH d.d.</field>
+            <field name="zip">71000</field>
+            <field name="city">Sarajevo</field>
+            <field name="street">Fra Anđela Zvizdovića 1</field>
+        </record>
+
+        <record id="res_bank_bs_555" model="res.bank">
+            <field name="country" ref="base.ba"/>
+            <field name="state" ref="l10n_bs.state_ba_3"/>
+            <field name="prefix">555</field>
+            <field name="bic">NOBI BA 22</field>
+            <field name="name">Nova banka AD Banja Luka</field>
+            <field name="zip">78000</field>
+            <field name="city">Banja Luka</field>
+            <field name="street">Kralja Alfonsa XIII 37 a</field>
+        </record>
+        <record id="res_bank_bs_134" model="res.bank">
+            <field name="country" ref="base.ba"/>
+            <field name="state" ref="l10n_bs.state_ba_2"/>
+            <field name="prefix">134</field>
+            <field name="bic">IKBZ BA 2X</field>
+            <field name="name">ASA Banka d.d. Sarajevo</field>
+            <field name="zip">71000</field>
+            <field name="city">Sarajevo</field>
+            <field name="street">Trg međunarodnog prijateljstva 25</field>
+        </record>
+
+        <record id="res_bank_bs_161" model="res.bank">
+            <field name="country" ref="base.ba"/>
+            <field name="state" ref="l10n_bs.state_ba_2"/>
+            <field name="prefix">161</field>
+            <field name="bic">RZBA BA 2S</field>
+            <field name="name">Raiffeisen BANK d.d. Sarajevo</field>
+            <field name="zip">71000</field>
+            <field name="city">Sarajevo</field>
+            <field name="street">Zmaja od Bosne bb</field>
+        </record>
+
+
+    </data>
+</odoo>

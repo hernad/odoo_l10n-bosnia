@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <data noupdate="1">
+
+        <!--
+        state_ba_1,base.ba,"Brčko Distrikt","BA1"
+        state_ba_2,base.ba,"Federacija BiH","BA2"
+        state_ba_3,base.ba,"Republika Srpska","BA3"
+        -->
+
+        <record id="city_ba_71000" model="res.better.zip">
+            <field name="country_id" ref="base.ba"/>
+           <field name="state_id" ref="l10n_bs.state_ba_2"/>
+            <field name="name">71000</field>
+            <field name="city">Sarajevo</field>
+        </record>
+
+
+       <record id="city_ba_88000" model="res.better.zip">
+            <field name="country_id" ref="base.ba"/>
+            <field name="state_id" ref="l10n_bs.state_ba_2"/>
+            <field name="name">88000</field>
+            <field name="city">Mostar</field>
+        </record>
+
+        <record id="city_ba_72000" model="res.better.zip">
+            <field name="country_id" ref="base.ba"/>
+            <field name="state_id" ref="l10n_bs.state_ba_2"/>
+            <field name="name">72000</field>
+            <field name="city">Zenica</field>
+        </record>
+
+        <record id="city_ba_75000" model="res.better.zip">
+            <field name="country_id" ref="base.ba"/>
+            <field name="state_id" ref="l10n_bs.state_ba_2"/>
+            <field name="name">75000</field>
+            <field name="city">Tuzla</field>
+        </record>
+
+        <record id="city_ba_78000" model="res.better.zip">
+            <field name="country_id" ref="base.ba"/>
+            <field name="state_id" ref="l10n_bs.state_ba_3"/>
+            <field name="name">78000</field>
+            <field name="city">Banja Luka</field>
+        </record>
+
+        <record id="city_ba_76100" model="res.better.zip">
+            <field name="country_id" ref="base.ba"/>
+            <field name="state_id" ref="l10n_bs.state_ba_1"/>
+            <field name="name">76100</field>
+            <field name="city">Brčko</field>
+        </record>
+    -->
+
+    </data>
+</odoo>
