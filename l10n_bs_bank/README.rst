@@ -3,7 +3,7 @@
    :alt: License: AGPL-3
 
 =================
-Bosnia : Banking
+Bosnia and Herzegovina : Banking
 =================
 
 * This module will import current list of banks in Bosnia
@@ -15,6 +15,6 @@ Bosnia : Banking
 Contributors
 ------------
 
-Davor Bojkić <bole@dajmi5.com>
-Ernad Husremović <hernad@bring.out.ba>
+* Davor Bojkić <bole@dajmi5.com>
+* Ernad Husremović <hernad@bring.out.ba>
 
