@@ -8,30 +8,13 @@ Bosnia : Banking
 
 * This module will import current list of banks in Bosnia
 * Partner bank model extend with field account purpose,
-  selection is mandatory only for personal bank accounts opened in croatian banks,
-  in evidention of croatian companies
+  selection is mandatory only for personal bank accounts opened in bosnian banks,
+  where company is bosnian
 
-Usage
------
-- nothing special, just install the module
 
 Contributors
 ------------
 
 Davor Bojkić <bole@dajmi5.com>
-
-Maintainer
-----------
-
-.. image:: https://odoo-community.org/logo.png
-   :alt: Odoo Community Association
-   :target: https://odoo-community.org
-
-This module is maintained by the OCA.
-
-OCA, or the Odoo Community Association, is a nonprofit organization whose
-mission is to support the collaborative development of Odoo features and
-promote its widespread use.
-
-To contribute to this module, please visit https://odoo-community.org.
+Ernad Husremović <hernad@bring.out.ba>
 
