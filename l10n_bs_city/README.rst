@@ -14,8 +14,8 @@ Credits
 Contributors
 ------------
 
-- Davor Bojkić <bole@dajmi5.com>
-- Ernad Husremović <hernad@bring.out.ba>
+* Davor Bojkić <bole@dajmi5.com>
+* Ernad Husremović <hernad@bring.out.ba>
 
 
 
