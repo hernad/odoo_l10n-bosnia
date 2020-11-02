@@ -2,10 +2,10 @@
    :target: http://www.gnu.org/licenses/agpl-3.0-standalone.html
    :alt: License: AGPL-3
 
-Hrvatska : States and cities with post codes
-============================================
+Bosnia and Herzegovina : States and cities with post codes
+============================================================
 
-List of cities in Bosnia with post numbers
+List of cities in Bosnia and Herzegovina with post numbers
 
 
 Credits
@@ -14,7 +14,8 @@ Credits
 Contributors
 ------------
 
-Ernad Husremović <hernad@bring.out.ba>
+- Davor Bojkić <bole@dajmi5.com>
+- Ernad Husremović <hernad@bring.out.ba>
 
 
 
