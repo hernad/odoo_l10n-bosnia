@@ -3,18 +3,16 @@
    :alt: License: AGPL-3
 
 =================
-Bosnia and Herzegovina : Banking
+Bosna i Hercegovina
 =================
 
-* This module will import current list of banks in Bosnia
-* Partner bank model extend with field account purpose,
-  selection is mandatory only for personal bank accounts opened in bosnian banks,
-  where company is bosnian
+* Lista banaka u BiH
+* Partner bank model je proširen sa poljem `account purpose`, obaveznim poljem za privatne račune otvorenim u bosanskim bankama, za bosanska preduzeća
 
 
 Contributors
 ------------
 
-* Davor Bojkić <bole@dajmi5.com>
+* Davor Bojkić <bole@dajmi5.com> (author of l10n_hr_bank)
 * Ernad Husremović <hernad@bring.out.ba>
 

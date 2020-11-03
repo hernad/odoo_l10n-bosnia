@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-# Template l10n_croatian:
+# Template l10n-croatia:
 # © 2018 Davor Bojkić - Bole <bole@dajmi5.com>
 
 
